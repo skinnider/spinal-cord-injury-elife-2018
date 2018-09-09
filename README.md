@@ -1,0 +1,1 @@
+This repository contains code and data necessary to reproduce all analyses presented in Squair et al., "Integrated systems analysis reveals conserved gene networks underlying response to spinal cord injury." 

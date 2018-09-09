@@ -1,0 +1,1 @@
+filename	group	timeGSM1103369_CTR1.csv	uninjured	controlGSM1103370_CTR2.csv	uninjured	controlGSM1103372_2DM1.csv	injury	2dayGSM1103373_2DM2.csv	injury	2dayGSM1103374_2DM3.csv	injury	2dayGSM1103375_7DM1.csv	injury	7dayGSM11033777_7DM3.csv	injury	7dayGSM1174307_7DM2.csv	injury	7day

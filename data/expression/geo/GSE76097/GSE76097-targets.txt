@@ -1,0 +1,12 @@
+sample	name	genotype	condition
+GSM1974202	42 FLOW	WT	Uninjured
+GSM1974204	79 FLOW	WT	Uninjured
+GSM1974206	65 FLOW	WT	Uninjured
+GSM1974208	154 FLOW	WT	Uninjured
+GSM1974210	9935 FLOW	WT	Spinal cord injury
+GSM1974212	9874 FLOW	WT	Spinal cord injury
+GSM1974214	9843 FLOW	WT	Spinal cord injury
+GSM1974216	9596 FLOW	WT	Spinal cord injury
+GSM1974218	186 FLOW	STAT3	Spinal cord injury
+GSM1974220	531 FLOW	STAT3	Spinal cord injury
+GSM1974222	270 FLOW	STAT3	Spinal cord injury
